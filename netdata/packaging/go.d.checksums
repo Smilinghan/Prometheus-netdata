@@ -1,0 +1,16 @@
+edf078050016c8411f593aa7e00c5879316073468af178d7c607f44f27ae57a6 *config.tar.gz
+2b20f8f6a7cc7d233b3e08ef61260dabf603eeb2cb9ab9055af3e4855fa25da1 *go.d.plugin-v0.32.3.darwin-amd64.tar.gz
+7ac588f24c75d2b2f969a5257f8178ddc6dd18c16bef7bf412c44a63e2299192 *go.d.plugin-v0.32.3.freebsd-386.tar.gz
+a60fd241c48de208ba0f8bdc796b0cc6a4d9a4ae710a1eb69ad2b8d640b7918b *go.d.plugin-v0.32.3.freebsd-amd64.tar.gz
+1a52a6d3303de79614934101c3c556c0e4509767992aef4ac005e730a3f9dc9a *go.d.plugin-v0.32.3.freebsd-arm.tar.gz
+c8328d5abfa48a6d4e0d7f886cced2232f1c0a7d46f1bc601efdf672beaa0333 *go.d.plugin-v0.32.3.freebsd-arm64.tar.gz
+d57674085cf572fdd97db303f7821ac33ce9f7613b67ea30bbb4851418518c2b *go.d.plugin-v0.32.3.linux-386.tar.gz
+e14dd0c90649dae44d17c4f071c28e80f30e8f6d9cfd1e45f0a5a626bc8b96d2 *go.d.plugin-v0.32.3.linux-amd64.tar.gz
+fc21e1078b4ebdbe6751e6b777ff24c4459252075bbac4c9634e5654d693af6e *go.d.plugin-v0.32.3.linux-arm.tar.gz
+e4e6693a14bb7e9575c1c9cde0997d97b9b21a49659cad479a93f99681d9b57a *go.d.plugin-v0.32.3.linux-arm64.tar.gz
+a718d54f5d562ff85fcecf9d6bfdb7e6edfed64456aca7174e67bafc4c617f19 *go.d.plugin-v0.32.3.linux-mips.tar.gz
+5c34aab28e9e70ccc06ff947b9d5a5372f409330a1d6ffc40be8e49d6c695bb6 *go.d.plugin-v0.32.3.linux-mips64.tar.gz
+5a4fe1c0d11a46d4cc6162284dc03e2a2732d2c636d7951a99b92088f85280fc *go.d.plugin-v0.32.3.linux-mips64le.tar.gz
+c19b7342ec8fac12f8a8de1a667ae784a15ca9621db59fc0369623b2986001e2 *go.d.plugin-v0.32.3.linux-mipsle.tar.gz
+5afcab0a8d6e9d5f6eeee6fc0a9ee11a82a8048a3bf8806d66f6c0792eb2080d *go.d.plugin-v0.32.3.linux-ppc64.tar.gz
+cb286bcf1e8e4e0dc2590a4aad0a9403b8da808f7c8d7b1a2fbd9a06f8de2dba *go.d.plugin-v0.32.3.linux-ppc64le.tar.gz
